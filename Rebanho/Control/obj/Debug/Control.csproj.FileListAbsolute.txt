@@ -1,0 +1,7 @@
+C:\Users\CIDRONIO\documents\visual studio 2015\Projects\Rebanho\Control\bin\Debug\Control.dll
+C:\Users\CIDRONIO\documents\visual studio 2015\Projects\Rebanho\Control\bin\Debug\Control.pdb
+C:\Users\CIDRONIO\documents\visual studio 2015\Projects\Rebanho\Control\bin\Debug\Model.dll
+C:\Users\CIDRONIO\documents\visual studio 2015\Projects\Rebanho\Control\bin\Debug\Model.pdb
+C:\Users\CIDRONIO\documents\visual studio 2015\Projects\Rebanho\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+C:\Users\CIDRONIO\documents\visual studio 2015\Projects\Rebanho\Control\obj\Debug\Control.dll
+C:\Users\CIDRONIO\documents\visual studio 2015\Projects\Rebanho\Control\obj\Debug\Control.pdb
